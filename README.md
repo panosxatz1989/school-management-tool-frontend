@@ -1,1 +1,3 @@
-# school-management-tool-frontend
+This is the Front End code for School Management Tool that i made. Of course right now is empty, but i plan to make it soon.
+
+Stay tuned...
